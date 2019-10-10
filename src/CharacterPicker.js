@@ -35,7 +35,7 @@ class  CharacterPicker extends Component{
         return(
             <div >
                 <h2>{msg}</h2>
-                <button onClick={this.randomNumber}>Next Character to play</button>
+                <button onClick={this.randomNumber}>Next Character</button>
                 
             </div>
         )
